@@ -1,0 +1,28 @@
+{
+  "version": "13",
+  "description": "It is template of Discord.js v13.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.14.0",
+    "discordjs-button-pagination": "^1.0.9",
+    "dotenv": "^17.1.0",
+    "luxon": "latest",
+    "node-cron": "latest",
+    "require-all": "latest"
+  },
+  "engines": {
+    "node": "latest"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/discord-js-v13-template-glitch"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "template"
+  ],
+  "license": "MIT"
+}
